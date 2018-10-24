@@ -1,2 +1,2 @@
 # test
-##Esto es solo un archivo con algunos commandos de git
+## Esto es solo un archivo con algunos commandos de git
