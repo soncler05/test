@@ -1,3 +1,19 @@
 Hola mundo real 
 v3 olala
 hmmm
+
+
+********Comandos de git
+
+** init: crear repositorio en una carpeta
+** status: para verificar si hay cambios para guardar versiones
+** add "nombre del archivo": para agrear un archivo en el staging
+** add . : para agregar todos los archivos que han sido modificados en la carpeta
+** commit -m "descripcion de la version, 50 o menos caracteres, entre comillas" : para guardar una nueva version
+** log
+** log --stat
+** log --oneline
+** log --graph
+** log --stat --oneline --graph --all
+** diff: ver la diferencia entre la versiones
+
