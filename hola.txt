@@ -17,6 +17,12 @@ hmmm
 ** log --stat --oneline --graph --all : combinacion 
 ** diff : ver la diferencia entre el commit pasado y los cambios que se acaban de realizar
 ** diff #commit #commit_o_nombre de archivo : diferencia entre dos versiones
-** checkout
+** checkout #commit_o_nombre de rama : para cambiar de versiones o de rama
+** branch : para ver las diferentes ramas
+** branch -b nombre rama : para crear nueva rama(duplicar el proyecto)
+** branch -d nombre rama : eliminar rama
+** merge nombre rama : para juntar la rama con la rama donde nos encontramos
+** pull origin master : para bajar los cambios hechos en github
+** push origin master : para subir los cambios a github
 
 
