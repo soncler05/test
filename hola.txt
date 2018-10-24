@@ -10,10 +10,10 @@ hmmm
 ** add "nombre del archivo": para agrear un archivo en el staging
 ** add . : para agregar todos los archivos que han sido modificados en la carpeta
 ** commit -m "descripcion de la version, 50 o menos caracteres, entre comillas" : para guardar una nueva version
-** log
-** log --stat
-** log --oneline
-** log --graph
-** log --stat --oneline --graph --all
-** diff: ver la diferencia entre la versiones
+** log : para ver las diferentes versiones del proyecto (**q para salir)
+** log --stat : muestra las versiones y las estadisticas
+** log --oneline :las versiones resumidas en una sola línea 
+** log --graph : las versiones y sus gráficas
+** log --stat --oneline --graph --all : combinacion 
+** diff: ver la diferencia entre el commit pasado y los cambios que se acaban de realizar
 
