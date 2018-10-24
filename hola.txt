@@ -7,7 +7,7 @@ hmmm
 
 ** init: crear repositorio en una carpeta
 ** status: para verificar si hay cambios para guardar versiones
-** add "nombre del archivo": para agrear un archivo en el staging
+** add nombre del archivo : para agrear un archivo en el staging
 ** add . : para agregar todos los archivos que han sido modificados en la carpeta
 ** commit -m "descripcion de la version, 50 o menos caracteres, entre comillas" : para guardar una nueva version
 ** log : para ver las diferentes versiones del proyecto (**q para salir)
@@ -15,5 +15,8 @@ hmmm
 ** log --oneline :las versiones resumidas en una sola línea 
 ** log --graph : las versiones y sus gráficas
 ** log --stat --oneline --graph --all : combinacion 
-** diff: ver la diferencia entre el commit pasado y los cambios que se acaban de realizar
+** diff : ver la diferencia entre el commit pasado y los cambios que se acaban de realizar
+** diff #commit #commit_o_nombre de archivo : diferencia entre dos versiones
+** checkout
+
 
